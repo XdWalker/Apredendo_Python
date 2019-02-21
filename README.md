@@ -1,2 +1,2 @@
-# Apredendo_Python
+# Aprendendo_Python
 Python
